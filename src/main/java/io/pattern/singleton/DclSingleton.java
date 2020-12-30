@@ -16,5 +16,6 @@ public class DclSingleton {
 				}
 			}
 		}
+		return uniqueInstance;
 	}
 }
