@@ -1,11 +1,9 @@
 package io.pattern.mvc;
 
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
 
 public class DJView implements ActionListener,  BeatObserver, BPMObserver {
 	BeatModelInterface model;

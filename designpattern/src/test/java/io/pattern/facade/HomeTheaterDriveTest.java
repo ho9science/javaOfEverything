@@ -2,7 +2,6 @@ package io.pattern.facade;
 
 import org.junit.Test;
 
-import java.net.URI;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 

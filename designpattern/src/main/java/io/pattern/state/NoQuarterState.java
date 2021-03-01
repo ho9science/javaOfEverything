@@ -1,7 +1,5 @@
 package io.pattern.state;
 
-import lombok.NoArgsConstructor;
-
 public class NoQuarterState implements State {
 	GumBallMachine gumBallMachine;
 

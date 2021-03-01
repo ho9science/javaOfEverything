@@ -1,2 +1,5 @@
 rootProject.name = 'designpattern'
+include 'designpattern'
+include 'algorithm'
+include 'example'
 
